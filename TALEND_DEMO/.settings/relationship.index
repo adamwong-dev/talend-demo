@@ -1,0 +1,51 @@
+[ {
+  "baseItem" : {
+    "id" : "_3F84UF1TEe2Uv93tDuDdSw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KAMTwF1fEe28KojI8dLB5g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KAMTwF1fEe28KojI8dLB5g - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_nx7JEF1dEe28KojI8dLB5g - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]
