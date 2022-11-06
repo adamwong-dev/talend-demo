@@ -5,6 +5,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "TALEND_DEMO:_ttUdIF3kEe2VpcftZ6m_EQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
     "id" : "_KAMTwF1fEe28KojI8dLB5g",
     "version" : "Latest",
     "type" : "property"
@@ -47,5 +51,16 @@
     "id" : "MDM",
     "version" : "Latest",
     "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_yXengF3WEe2VpcftZ6m_EQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "TALEND_DEMO:_3F84UF1TEe2Uv93tDuDdSw",
+    "version" : "Latest",
+    "type" : "job"
   } ]
 } ]
